@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "481220299659",
+    "firebase_url": "https://practiceapp-457a6.firebaseio.com",
+    "project_id": "practiceapp-457a6",
+    "storage_bucket": "practiceapp-457a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481220299659:android:c7dad02e394dc5c6ad3d8e",
+        "android_client_info": {
+          "package_name": "com.uplanit.signin1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481220299659-cq7mi97d45nmbglbejf09e27out9ag8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uplanit.signin1",
+            "certificate_hash": "cb85e56faacda8ac76d291960997802a51a44e3f"
+          }
+        },
+        {
+          "client_id": "481220299659-19e74d7j7nqud4fn0pij98j5egic9j41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQZpaAFbnDU2iKAW8DpSiJeKtX1nGzpEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481220299659-19e74d7j7nqud4fn0pij98j5egic9j41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
